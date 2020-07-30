@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+.root {
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-background-color: #B58E6D;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.moneyLabel {
+    -fx-font-size: 30px;
+    -fx-border-color: gold;
+    -fx-text-fill: gold;
+}
+
+.marketLabel {
+    -fx-font-size: 30px;
+    -fx-border-color: gold;
+    -fx-text-fill: gold;
+}
+
+
+.countLabel {
+    -fx-text-fill: white;
+
+}
+
+.nameLabel {
+    -fx-text-fill: white;
+
+}
+
+.gridCell {
+    -fx-background-color: #6F4827;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+
+}
+
+.seedLabel {
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+    /*-fx-text-shadow-width: 1px;
+    -fx-text-shadow-height: 1px;
+    -fx-text-shadow-color: brown;*/
+
+}
+.inventoryLabel {
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+    /*-fx-text-shadow-width: 1px;
+    -fx-text-shadow-height: 1px;
+    -fx-text-shadow-color: brown;*/
+}
+
+.buyButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+.sellButton {
+    -fx-background-color: #FF4500;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+.sellButton:hover {
+    -fx-background-color: #DC143C;
+    -fx-text-fill: white;
+}
+
+.buyButton:hover {
+    -fx-background-color: #006400;
+    -fx-text-fill: #F8F8FF;
+}
+
+.returnButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+
+.returnButton:hover {
+    -fx-background-color: #006400;
+    -fx-text-fill: #F8F8FF;
+}
+
+

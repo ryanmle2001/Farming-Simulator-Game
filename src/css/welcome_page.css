@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+.root {
+    -fx-font-family: 'Lato', sans-serif;
+}
+
+.label {
+    -fx-text-fill: brown;
+    -fx-padding: 0px 50px 10px;
+}
+
+.titlePane {
+    -fx-background-color: #ADD8E6;
+}
+
+.top {
+    -fx-background-color: #ADD8E6;
+    -fx-padding-bottom: 20px;
+}
+
+.title {
+    -fx-font-size: 120px;
+}
+
+.producerPane {
+}
+
+.producer {
+    -fx-font-size: 50px;
+}
+
+.center {
+    -fx-background-color: #8be137;
+}
+
+.beginButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 70px;
+}
+
+.beginButton:hover {
+    -fx-background-color: #006400;
+    -fx-text-fill: #F8F8FF;
+}
+

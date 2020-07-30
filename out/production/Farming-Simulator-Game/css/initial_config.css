@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+.root {
+    -fx-font-family: 'Lato', sans-serif;
+}
+.label {
+    -fx-text-fill: brown;
+    -fx-font-family: 'Lato', sans-serif;
+}
+
+.welcome {
+    -fx-font-size: 60px;
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-padding-bottom: 40px;
+}
+.top {
+    -fx-background-color: #ADD8E6;
+    -fx-padding-bottom: 20px;
+}
+
+.center {
+    -fx-background-color: #8be137;
+}
+.startButton {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 60px;
+}
+
+.startButton:hover {
+    -fx-background-color: #006400;
+    -fx-text-fill: #F8F8FF;
+}
+
+.
